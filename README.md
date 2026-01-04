@@ -2,6 +2,10 @@
 
 A small e-commerce UI built with React + TypeScript.
 
+## Live Demo
+
+https://better-way-mini-ecommerce-project.vercel.app/
+
 ## Features
 
 - Product grid (loads from DummyJSON, falls back to local mocked data)
